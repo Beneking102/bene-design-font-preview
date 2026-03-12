@@ -18,6 +18,11 @@
 [![Fonts](https://img.shields.io/badge/fonts-2-00e5ff?style=flat-square&labelColor=0e1014)](#fonts)
 [![Tailwind](https://img.shields.io/badge/tailwind-plugin-ffd700?style=flat-square&labelColor=0e1014)](tailwind.js)
 [![GitHub Packages](https://img.shields.io/badge/registry-GitHub_Packages-3a4050?style=flat-square&labelColor=0e1014)](https://github.com/Beneking102/bene-design-fonts/packages)
+[![Preview](https://img.shields.io/badge/preview-live-ff2244?style=flat-square&labelColor=0e1014)](https://bene-design-font-preview.vercel.app)
+
+<br/>
+
+**[→ Live Preview](https://bene-design-font-preview.vercel.app)**
 
 <br/>
 
